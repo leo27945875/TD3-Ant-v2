@@ -1,5 +1,7 @@
 # TD3
 
+![](./ant.png)
+
 ## Set the parameters in block "Set the parameters":
 * env_name = Name of enviroment
 * seed = Random seed
@@ -19,3 +21,9 @@
 <pre>
     After setting up all parameters, just click the button "Run All", then you can train TD3 model and evaluate it. You can find the model file in the folder "./pytorch_models" and reward records of evaluations in "./results/[enviroment name]".
 </pre> 
+
+## Results:
+![](./exp.png)  
+* DP: Delayed Policy updates
+* TPS: Target Policy Smoothing
+* CDQ: Clipped Double Q-learning
