@@ -1,6 +1,6 @@
 # TD3
 
-![](./ant.png)
+![](./ant.gif)
 
 ## Set the parameters in block "Set the parameters":
 * env_name = Name of enviroment
