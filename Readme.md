@@ -2,7 +2,7 @@
 
 ![](./ant.gif)
 
-## Set the parameters in block "Set the parameters":
+## Set the parameters in block "Set the parameters" in `TD3_Ant.ipynb`:
 * env_name = Name of enviroment
 * seed = Random seed
 * start_timesteps = When to start training TD3 model
